@@ -1,0 +1,22 @@
+
+#discount_message {
+    text-align:left !important;
+}
+
+#app-product-discount {
+    text-align: left !important;
+}
+
+.product-discount-timer .discount-message {
+    display: flex;
+    text-align: center;
+}
+.product-discount-timer .iscenter {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+
+#product-discount-timer #discount_message {
+    text-align:left;
+}

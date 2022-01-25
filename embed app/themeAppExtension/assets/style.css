@@ -1,0 +1,19 @@
+.app-discount-timer .discount-message {
+    display: flex;
+    /* justify-content: center; */
+    text-align: center;
+}
+.app-discount-timer .iscenter {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.app-discount-timer {
+    text-align: center;
+}
+#app-discount-timer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
